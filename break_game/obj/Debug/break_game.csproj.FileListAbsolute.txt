@@ -1,0 +1,11 @@
+C:\Users\teshigawara\source\repos\break_game\break_game\bin\Debug\break_game.exe.config
+C:\Users\teshigawara\source\repos\break_game\break_game\bin\Debug\break_game.exe
+C:\Users\teshigawara\source\repos\break_game\break_game\bin\Debug\break_game.pdb
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.csproj.AssemblyReference.cache
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.Form1.resources
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.Properties.Resources.resources
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.csproj.GenerateResource.cache
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.csproj.CoreCompileInputs.cache
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.exe
+C:\Users\teshigawara\source\repos\break_game\break_game\obj\Debug\break_game.pdb
